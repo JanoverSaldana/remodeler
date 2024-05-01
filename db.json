@@ -1,0 +1,38 @@
+{
+    "remodelers": [
+      {
+        "userID": "4",
+        "id": 4,
+        "firstName": "Alonso",
+        "paternalSurname": "Ruiz",
+        "maternalSurname": "Galindo",
+        "email": "alonso@techelp.com",
+        "phone": "1234567890",
+        "subscription": "premium",
+        "description": "Soy un apasionada de la remodelación y diseño de interiores, comprometido con la excelencia en cada proyecto. Con habilidades técnicas y creativas, busco superar las expectativas de mis clientes, transformando espacios en lugares funcionales y estéticamente atractivos"
+      },
+      {
+        "userID": 5,
+        "id": 5,
+        "firstName": "Rafael",
+        "paternalSurname": "Tarazona",
+        "maternalSurname": "Rojas",
+        "email": "rafael@techelp.com",
+        "phone": "1234567890",
+        "subscription": "premium",
+        "description": "Soy un apasionada de la remodelación y diseño de interiores, comprometido con la excelencia en cada proyecto. Con habilidades técnicas y creativas, busco superar las expectativas de mis clientes, transformando espacios en lugares funcionales y estéticamente atractivos"
+      },
+      {
+        "userID": 6,
+        "id": 6,
+        "firstName": "Mariana",
+        "paternalSurname": "Hernandez",
+        "maternalSurname": "Quintero",
+        "email": "mariana@techelp.com",
+        "phone": "1234567890",
+        "subscription": "premium",
+        "description": "Soy un apasionada de la remodelación y diseño de interiores, comprometido con la excelencia en cada proyecto. Con habilidades técnicas y creativas, busco superar las expectativas de mis clientes, transformando espacios en lugares funcionales y estéticamente atractivos"
+      }
+    ]
+  }
+  
